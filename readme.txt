@@ -3,5 +3,4 @@ Git is free software distributed under GPL.
 Creating a new branch is quick and simple.
 Fixing bug.........
 second finish bug!
-stash file!
 before git stash
